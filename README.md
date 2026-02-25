@@ -97,9 +97,46 @@ Based on the findings:
 ---
 
 ## 📷 Dashboard Preview
-
-![Dashboard Overview](dashboard-overview.png)
+<img width="975" height="551" alt="image" src="https://github.com/user-attachments/assets/63fc9531-41a8-44d0-b22d-b6b3a6c805f1" />
 
 ---
 
 ## 📁 Project Structure
+THF-January-Sales-Dashboard  
+│── THF_January_Sales.pbix  
+│── dashboard-overview.png    
+│── README.md  
+
+---
+
+## ⚠️ Disclaimer
+
+The dataset used in this project has been anonymized and modified for portfolio purposes. No sensitive business information has been disclosed.
+
+---
+
+## 🚀 Author
+
+**Dorcas Iyinoluwa Oyatowo**  
+Data Analyst | Business-Focused Problem Solver  
+Skilled in Python, SQL, Excel, and Power BI  
+
+
+
+
+
+
+---
+
+## ⚠️ Disclaimer
+
+The dataset used in this project has been anonymized and modified for portfolio purposes. No sensitive business information has been disclosed.
+
+---
+
+## 🚀 Author
+
+**Dorcas Iyinoluwa Oyatowo**  
+Data Analyst | Business-Focused Problem Solver  
+Skilled in Python, SQL, Excel, and Power BI  
+
